@@ -6,3 +6,7 @@ This will be a collection of learnings about Graph Convolutional Networks.
 * Learnings in practice
 * Demystifying various papers in this field
 * Platform implementation of common patterns in GCN 
+
+
+### References
+This implementation if inspired by https://github.com/alibaba/graph-learn
