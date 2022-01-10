@@ -5,3 +5,4 @@ This will be a collection of learnings about Graph Convolutional Networks.
 * Applications
 * Learnings in practice
 * Demystifying various papers in this field
+* Platform implementation of common patterns in GCN 
