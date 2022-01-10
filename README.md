@@ -9,4 +9,4 @@ This will be a collection of learnings about Graph Convolutional Networks.
 
 
 ### References
-This implementation if inspired by https://github.com/alibaba/graph-learn
+This implementation is inspired by https://github.com/alibaba/graph-learn
